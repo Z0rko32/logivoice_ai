@@ -1,0 +1,10 @@
+backend/venv/
+venv/
+.venv/
+__pycache__/
+*/__pycache__/
+temp/
+temp_audio/
+*.pyc
+.git/
+.vscode/
